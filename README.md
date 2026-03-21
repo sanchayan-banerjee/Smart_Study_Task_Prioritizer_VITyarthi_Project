@@ -31,11 +31,11 @@ This program allows the user to:
 - Step 8: Display optimized study order with explanations.
 
 ## **Project Structure:-**
-- **main.py**:Core program logic (AI decision system).
-- **README.md**:Documentation and usage instructions.
-- **screenshots/**:Contains sample output images (e.g., output1.1.png, output1.2.png).
-- **STATEMENT.md**:Contains the Problem Statement.
-- **Project_Report**:Contains the complete project report.
+- **main.py**: Core program logic (AI decision system).
+- **README.md**: Documentation and usage instructions.
+- **screenshots/**: Contains sample output images (e.g., output1.1.png, output1.2.png).
+- **STATEMENT.md**: Contains the Problem Statement.
+- **Project_Report**: Contains the complete project report.
 
 ## **Requirements:-**
 - Python 3.x
@@ -50,13 +50,13 @@ This program allows the user to:
   python main.py
 
 ## **Sample Output Screenshots:-**
-- [Sample Output Screenshot1](screenshots/output1.1.png)
-- [Sample Output Screenshot2(in continuation with Screenshot1)](screenshots/output1.2.png)
+- [Sample Output Screenshot1](screenshots/Output1.1.png)
+- [Sample Output Screenshot2(in continuation with Screenshot1)](screenshots/Output1.2.png)
 
 ## **Decision Logic Explaination:-**
 ### **Scoring Rule:-**
 - Score = priority * (1 / deadline)
-- Higher priority signifies greater       importance.
+- Higher priority signifies greater importance.
 - Smaller deadline signifies higher urgency.
 - The final score reflects overall task significance.
 
@@ -88,4 +88,4 @@ Future versions of this project can include:
 
 ## **Project By:**
 - **Sanchayan Banerjee**
-- **GitHub username:sanchayan-banerjee**
+- **GitHub username: sanchayan-banerjee**
