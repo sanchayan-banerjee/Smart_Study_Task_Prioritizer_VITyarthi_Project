@@ -42,11 +42,11 @@ This program allows the user to:
 - No external libraries required
 
 ## **How to Run the Program:-**
-- Step 1: Clone the Repository
-  git clone https://github.com/sanchayan-banerjee/Smart_Study_Task_Prioritizer_VITyarthi_Project
-- Step 2: Navigate to the Project Folder
+- Step 1: Clone the Repository:
+  git clone https://github.com/sanchayan-banerjee/Smart_Study_Task_Prioritizer_VITyarthi_Project.git
+- Step 2: Navigate to the Project Folder:
   cd Smart_Study_Task_Prioritizer_VITyarthi_Project
-- Step 3: Run the Program
+- Step 3: Run the Program:
   python main.py
 
 ## **Sample Output Screenshots:-**
@@ -88,4 +88,4 @@ Future versions of this project can include:
 
 ## **Project By:**
 - **Sanchayan Banerjee**
-- **GitHub:sanchayan-banerjee**
+- **GitHub username:sanchayan-banerjee**
