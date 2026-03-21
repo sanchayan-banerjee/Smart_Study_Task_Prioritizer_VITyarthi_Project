@@ -12,7 +12,7 @@ def calculate_score(task):
 def probability_of_missing(deadline):
     return min(1, 1 / deadline)
 
-#Reasoning behind the descision
+#Reasoning behind the decision
 def generate_reason(task):
     if task["priority"] >= 4 and task["deadline"] <= 3:
         return "High priority and urgent"
