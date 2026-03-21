@@ -1,2 +1,0 @@
-## **Problem Statement:-** 
-- To develop a AI system that helps students prioritize study tasks based on priority and deadlines. The system uses heuristic scoring, greedy decision making and probabilistic risk estimation to generate an optimized study order thus improving productivity and time management.

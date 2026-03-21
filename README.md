@@ -2,7 +2,7 @@
 
 
 ## **Problem Statement:-**
-To develop a AI system that helps students prioritize study tasks based on priority and deadlines. The system uses heuristic scoring, greedy decision making and probabilistic risk estimation to generate an optimized study order thus improving productivity and time management.
+To develop an AI system that helps students prioritize study tasks based on priority and deadlines. The system uses heuristic scoring, greedy decision making and probabilistic risk estimation to generate an optimized study order thus improving productivity and time management.
 
 ## **Objectives:-**
 - Develop an intelligent system for task prioritization.
@@ -20,7 +20,7 @@ This program allows the user to:
 - Receive an ordered study plan based on urgency and importance.
 - View risk estimations and reasoning for each recommendation.
 
-## **System Workflow:-**
+## **System Flow:-**
 - Step 1: Start the program.
 - Step 2: Enter the number of tasks.
 - Step 3: Input task details (name, priority, deadline).
@@ -34,7 +34,7 @@ This program allows the user to:
 - **main.py**: Core program logic (AI decision system).
 - **README.md**: Documentation and usage instructions.
 - **screenshots/**: Contains sample output images (e.g., output1.1.png, output1.2.png).
-- **STATEMENT.md**: Contains the Problem Statement.
+- **Problem_Statement.md**: Contains the Problem Statement.
 - **Project_Report**: Contains the complete project report.
 
 ## **Requirements:-**
@@ -54,19 +54,19 @@ This program allows the user to:
 - [Sample Output Screenshot2(in continuation with Screenshot1)](screenshots/Output1.2.png)
 
 ## **Decision Logic Explaination:-**
-### **Scoring Rule:-**
+### Scoring Rule:-
 - Score = priority * (1 / deadline)
 - Higher priority signifies greater importance.
 - Smaller deadline signifies higher urgency.
 - The final score reflects overall task significance.
 
-### **Risk Evaluation:-**
+### Risk Evaluation:-
 - The system estimates the likelihood of missing a task.
 - Risk = (1 / deadline)
 - Tasks with shorter deadlines carry higher risk.
 - This helps highlight time-sensitive tasks.
 
-### **Strategy Used:-**
+### Strategy Used:-
 - Tasks are sorted based on computer scores.
 - A greedy approach is used here to select the best option.
 - The system always selects the highest scoring task first.
@@ -79,7 +79,7 @@ This program allows the user to:
 - **Probabilistic Thinking**: Estimates risk associated with deadlines. 
 - **Basic Statistical Analysis**: Uses averages to understand task distribution.
 
-## **Optional Future Enhancements:-**
+## **Possible Future Enhancements:-**
 Future versions of this project can include:
 - Adaptive learning from user behaviour.
 - More advanced scoring models.
