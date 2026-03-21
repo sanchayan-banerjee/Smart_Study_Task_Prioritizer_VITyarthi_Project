@@ -148,3 +148,8 @@ The Smart Study Task Priortizer successfully demonstrates how AI concepts can be
 - Python Official Documentation
 - Concepts from Artificial Intelligence Coursework.
 - Basic principles of heuristic search and decision making.
+
+
+## **Project By:**
+- **Sanchayan Banerjee**
+- **GitHub username: sanchayan-banerjee**

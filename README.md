@@ -53,7 +53,7 @@ This program allows the user to:
 - [Sample Output Screenshot1](screenshots/Output1.1.png)
 - [Sample Output Screenshot2(in continuation with Screenshot1)](screenshots/Output1.2.png)
 
-## **Decision Logic Explaination:-**
+## **Decision Logic Explainations:-**
 ### Scoring Rule:-
 - Score = priority * (1 / deadline)
 - Higher priority signifies greater importance.
