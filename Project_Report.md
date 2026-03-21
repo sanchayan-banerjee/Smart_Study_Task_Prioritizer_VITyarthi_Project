@@ -93,19 +93,19 @@ The system follows a structured approach:
 - Output reasoning improves interpretability.
 
 ## **Analysis:-**
-| Parameter | Impact of Parameter |
+| Parameters | Impact of Parameters |
 |----------|----------|
 | Priority | Determines importance of task |
 | Deadline | Determines urgency |
 | Score | Final ranking factor |
 | Risk | Indicates likelihood of delay |
 
-## **Inference:-**
+## **Inferences:-**
 - Combining both urgency and importance leads to better decision making.
 - Simple heuristics can effectively solve real world problems.
 - Even basic AI techniques can improve productivity.
 
-## **Key Decisions Included are as follows:-**
+## **Key Decisions taken are as follows:-**
 - Chose a heuristic approach for simiplicity and efficiency.
 - Used greedy sorting instead of complex search algorithm.
 - Avoided external libraries to maintain portability.
