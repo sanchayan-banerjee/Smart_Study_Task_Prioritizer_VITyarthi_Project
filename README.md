@@ -50,8 +50,8 @@ This program allows the user to:
   python main.py
 
 ## **Sample Output Screenshots:-**
-- [Sample Output Screenshots](screenshots/output1.1.png)
-- [Sample Output Screenshots](screenshots/output1.2.png)
+- [Sample Output Screenshot1](screenshots/output1.1.png)
+- [Sample Output Screenshot2(in continuation with Screenshot1)](screenshots/output1.2.png)
 
 ## **Decision Logic Explaination:-**
 ### **Scoring Rule:-**
