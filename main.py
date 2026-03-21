@@ -8,8 +8,8 @@ def calculate_score(task):
 
     return score
 
-#Probablity of missing deadline
-def probablity_of_missing(deadline):
+#Probability of missing deadline
+def probability_of_missing(deadline):
     return min(1, 1 / deadline)
 
 #Reasoning behind the descision
@@ -87,7 +87,7 @@ def main():
 
     for i, task in enumerate(tasks, 1):
         score = calculate_score(task)
-        risk = probablity_of_missing(task["deadline"])
+        risk = probability_of_missing(task["deadline"])
         reason = generate_reason(task)
 
 
