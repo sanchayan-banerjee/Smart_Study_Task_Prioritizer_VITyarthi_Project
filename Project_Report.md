@@ -129,7 +129,7 @@ The system follows a structured approach:
 ## **Learning Outcomes:-**
 - Understanding of rational agent models.
 - Application of heuristic based decision making.
-- Implentation of greedy algorithms.
+- Implementation of greedy algorithms.
 - Use of probability for risk estimation.
 - Importance of clean CLI design.
 - Experience with structured problem solving.
