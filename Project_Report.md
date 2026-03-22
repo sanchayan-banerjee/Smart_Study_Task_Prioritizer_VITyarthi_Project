@@ -77,7 +77,7 @@ The system follows a structured approach:
 - **main.py**: Core program logic (AI decision system).
 - **README.md**: Documentation and usage instructions.
 - **screenshots/**: Contains sample output images (e.g., output1.1.png, output1.2.png).
-- **Problem_Statement.md**: Contains the Problem Statement.
+- **STATEMENT.md**: Contains the Problem Statement.
 - **Project_Report**: Contains the complete project report.
 
 ## **Results and Observations**
