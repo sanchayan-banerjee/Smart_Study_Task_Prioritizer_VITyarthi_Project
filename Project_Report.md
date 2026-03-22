@@ -88,7 +88,7 @@ The system follows a structured approach:
 - The system provides consistent and logical ordering.
 
 ### **Observations:-**
-- The scoring function effictively balances urgency and importance.
+- The scoring function effectively balances urgency and importance.
 - Risk estimation highlights critical tasks.
 - Output reasoning improves interpretability.
 
@@ -106,7 +106,7 @@ The system follows a structured approach:
 - Even basic AI techniques can improve productivity.
 
 ## **Key Decisions taken are as follows:-**
-- Chose a heuristic approach for simiplicity and efficiency.
+- Chose a heuristic approach for simplicity and efficiency.
 - Used greedy sorting instead of complex search algorithm.
 - Avoided external libraries to maintain portability.
 - Included reasoning output for explainability.
@@ -116,7 +116,7 @@ The system follows a structured approach:
 - Balancing simplicity with AI concepts.
 - Handling invalid user inputs.
 - Ensuring clean and readable output.
-- Mapping theoritical AI concepts to practical implementation.
+- Mapping theoretical AI concepts to practical implementation.
 
 ## **Core AI Foundations applied in this Project:-**
 - **Rational Agent Model**: Makes goal oriented decisions based on inputs.
