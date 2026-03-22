@@ -144,7 +144,7 @@ The system follows a structured approach:
 The Smart Study Task Priortizer successfully demonstrates how AI concepts can be applied to solve real-world problems.The system provides an efficient and practical approach to task management using heuristic evaluation, greedy decision making and probabilistic reasoning.Despite its simplicity , the project effectively improves task prioritization and showcases the relevance of AI techniques in everyday scenarios.
 
 ## **References**
-### For furthur references check out the following:-
+### For further references check out the following:-
 - Python Official Documentation
 - Concepts from Artificial Intelligence Coursework.
 - Basic principles of heuristic search and decision making.
