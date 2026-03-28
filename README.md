@@ -67,7 +67,7 @@ This program allows the user to:
 
 ## **Decision Logic Explainations:-**
 ### Scoring Rule:-
-- Score = priority * (1 / deadline)
+- Score = priority x (1 / deadline)
 - Higher priority signifies greater importance.
 - Smaller deadline signifies higher urgency.
 - The final score reflects overall task significance.
