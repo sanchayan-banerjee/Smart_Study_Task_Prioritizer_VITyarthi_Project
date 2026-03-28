@@ -37,17 +37,29 @@ This program allows the user to:
 - **STATEMENT.md**: Contains the Problem Statement.
 - **Project_Report**: Contains the complete project report.
 
-## **Requirements:-**
-- Python 3.x
-- No external libraries required
+## **Setup Instructions:-**
+- Ensure Python 3 is installed on your device.
+- Ensure Git is installed for cloning the repository.
+- Open terminal or command prompt.
 
-## **How to Run the Program:-**
+## **Dependencies Installations:-**
+- No external library is required for this project.
+- All functionality is implemented using standard python.
+
+## **Configuration Steps:-**
+- No additional configuration is required.
+- Ensure Python is properly installed.
+- Ensure terminal access is available.
+
+## **Execution Steps:-**
 - Step 1: Clone the Repository:
-  git clone https://github.com/sanchayan-banerjee/Smart_Study_Task_Prioritizer_VITyarthi_Project.git
+  git clone https://github.com/sanchayan-banerjee/Smart_Study_Task_Prioritizer_VITyarthi_Project
 - Step 2: Navigate to the Project Folder:
   cd Smart_Study_Task_Prioritizer_VITyarthi_Project
 - Step 3: Run the Program:
   python main.py
+- Step 4: In case Step 3 fails, then to run the program:
+  python3 main.py
 
 ## **Sample Output Screenshots:-**
 - [Sample Output Screenshot1](screenshots/Output1.1.png)
